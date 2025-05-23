@@ -96,4 +96,4 @@ Based on the predicted class, corresponding options are applied to improve perfo
 
 ## Results
 The proposed method improves task performance by an average of 1.43× across tested workloads.
-![alt text](../images/image.png)
+![alt text](images/image.png)
